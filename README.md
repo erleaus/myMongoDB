@@ -1,6 +1,9 @@
 # myMongoDB
 
-[] List of Cards
+[] NetRunner Card Registry
   [] Name columns
-  [] table size expandable
-  [] basic UI for entry
+  [] Table size expandable
+  [] Basic UI for entry
+
+[] Mongo
+  [] Build Db
